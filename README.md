@@ -1,5 +1,18 @@
 # Python_Project
-My python project 
+My python project for MyStep It Academy.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!DOCTYPE html>
 <html lang="en">
